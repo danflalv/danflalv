@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I've some ideas for the people...
+
+🌱 I’m currently learning reactJS
 <!--
 **danflalv/danflalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
