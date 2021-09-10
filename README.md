@@ -2,7 +2,8 @@
 
 I've some ideas for the people...
 
-🌱 I’m currently learning reactJS
+🌱 I’m currently learning reactJS and Flutter.
+🔭 I’m currently working on getting better algorithm methods.
 <!--
 **danflalv/danflalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
