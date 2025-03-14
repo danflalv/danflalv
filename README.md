@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I've some ideas for the people...
+I've some ideas...
 
-🌱 I’m currently learning reactJS and Flutter.
-
-🔭 I’m currently working on getting better algorithm methods.
+🔭 I am currently working on a new personal project, I hope to finish it...
 <!--
 **danflalv/danflalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
